@@ -3,7 +3,7 @@
 This repository hosts my most up-to-date resume.  
 You can view and download it here:
 
-👉 [View Resume (PDF)](./Olivier_Szorc_resume.pdf)
+👉 [View Resume (PNG)](./Olivier_Szorc-resume.png)
 
 ---
 
